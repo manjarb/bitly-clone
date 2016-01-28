@@ -25,7 +25,7 @@ GEM
     minitest (5.6.1)
     multi_json (1.11.0)
     pg (0.18.2)
-    puma (2.11.3)
+    puma (2.16.0)
       rack (>= 1.1, < 2.0)
     rack (1.6.1)
     rack-protection (1.5.3)
